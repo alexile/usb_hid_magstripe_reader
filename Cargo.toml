@@ -1,7 +1,13 @@
 [package]
 name = "usb_hid_magstripe_reader"
+description = "USB HID Magstripe reader driver (Megahunt HID FS Keyboard / Run Mall)"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+homepage = "https://github.com/alexile/usb_hid_magstripe_reader"
+documentation = "https://github.com/alexile/usb_hid_magstripe_reader"
+repository = "https://github.com/alexile/usb_hid_magstripe_reader"
+readme = "README.md"
 
 [lib]
 name = "usb_hid_magstripe_reader"
