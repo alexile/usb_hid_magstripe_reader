@@ -1,0 +1,11 @@
+[package]
+name = "usb_hid_magstripe_reader"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "usb_hid_magstripe_reader"
+path = "src/lib.rs"
+
+[dependencies]
+rusb = "0.9.3"
